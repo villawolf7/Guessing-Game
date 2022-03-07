@@ -1,0 +1,38 @@
+* {
+    background-color:rgb(19, 39, 128);
+    color: white;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+body.button {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+input {
+    color: white;
+}
+
+button {
+    color: white;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    color: white;
